@@ -11,7 +11,7 @@
 
 #### `Москва, 2026`
 
-##### По всем вопросам писать `@trandelik`
+##### По всем вопросам писать
 
 Задание основано на [аналогичном задании курса ШАДа 2025 года](https://github.com/mryab/efficient-dl-systems/tree/2025/week03_fast_pipelines/homework).
 
